@@ -1,4 +1,4 @@
-let deptartmentName = 20;
+let deptartmentName = 1;
 
 switch(deptartmentName)
 {
